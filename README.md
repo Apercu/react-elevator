@@ -1,4 +1,4 @@
-# react-elevator
+# react-elevator [![test](https://img.shields.io/travis/Apercu/react-elevator.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/Apercu/react-elevator)
 
 > A small react component for elevator-like sliders.
 
